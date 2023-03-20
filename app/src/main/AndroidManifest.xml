@@ -23,6 +23,10 @@
         </activity>
         <activity android:name="dev.dgomes.views.ButtonsActivity" />
         <activity android:name="dev.dgomes.views.TextFieldsActivity" />
+        <activity android:name="dev.dgomes.views.TopBarActivity" />
+        <activity android:name="dev.dgomes.views.BottomBarActivity" />
+        <activity android:name="dev.dgomes.views.SnackBarActivity" />
+        <activity android:name="dev.dgomes.views.BottomNavigationActivity" />
     </application>
 
 </manifest>
